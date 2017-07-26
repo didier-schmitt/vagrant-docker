@@ -1,0 +1,3 @@
+---
+docker_graph: /var/lib/docker
+docker_storage: overlay2
